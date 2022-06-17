@@ -1,0 +1,82 @@
+{
+  "cadastro": [
+    {
+      "id": 1,
+      "nome": "Gilvan júnior",
+      "email": "adm@gmail.com",
+      "permissao": "Administrador",
+      "senha": "12345",
+      "status": "ativo"
+    },
+    {
+      "id": 2,
+      "nome": "João Alberto",
+      "email": "teste@gmail.com",
+      "permissao": "Usuário",
+      "senha": "123",
+      "status": "ativo"
+    },
+    {
+      "id": 3,
+      "nome": "Junior",
+      "email": "teste@gmail.com",
+      "permissao": "Usuario",
+      "senha": "123",
+      "status": "inativo"
+    },
+    {
+      "nome": "ricado",
+      "email": "ricardo@test.com",
+      "permissao": "Administrador",
+      "status": "Ativo",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "nome": "teste",
+      "email": "adm@gmail.com",
+      "permissao": "Administrador",
+      "status": "Ativo",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "nome": "teste2",
+      "email": "adm@gmail.com",
+      "permissao": "Usuário",
+      "status": "Inativo",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "nome": "teste",
+      "email": "adm@gmail.com",
+      "permissao": "Usuário",
+      "status": "Ativo",
+      "password": "123456789",
+      "id": 7
+    },
+    {
+      "nome": "gilvan junior",
+      "email": "junior@gmail.com",
+      "permissao": "Administrador",
+      "status": "Ativo",
+      "password": "123456",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "adm@gmail.com",
+      "senha": "12345",
+      "permissao": "Administrador",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbUBnbWFpbC5jb20iLCJzZW5oYSI6IjEyMzQ1In0.X5XWdZX-505Ws5H9DCAoyz82_2J04alyEYO4-hBuRz0"
+    },
+    {
+      "email": "teste@gmail.com",
+      "senha": "123",
+      "permissao": "Usuario",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RlQGdtYWlsLmNvbSIsInNlbmhhIjoiMTIzNDUifQ.jwthSILuigyHFk8OXrvD6xI8yQD-Vhjf8Ctf63L80VM"
+    }
+  ]
+}
